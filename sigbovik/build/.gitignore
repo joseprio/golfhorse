@@ -1,0 +1,16 @@
+target/
+target2/
+target3/
+runs/
+*.exe
+*.log
+*.out
+results*.txt
+sweep*.txt
+keepawake.ps1
+lucky.sh
+idx64.sh
+seeds64.sh
+shift64.sh
+sweep2.sh
+cmp*.log
